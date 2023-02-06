@@ -130,10 +130,6 @@ main {
   }
 
   .main-nav {
-    /* display: inline-block;
-    text-align: right;
-    width: calc(100% - 44px);
-    vertical-align: middle; */
     display: flex;
   }
 }
@@ -154,7 +150,6 @@ main {
 }
 
 .main-footer__link {
-  display: block;
   margin: 0.5rem 0;
 }
 
